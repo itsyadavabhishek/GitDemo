@@ -1,1 +1,7 @@
 Test Git Quick Start demo
+
+
+Instagram Fonts
+Welcome! This site allows you to generate text fonts that you can copy and paste into your Instagram bio. It's useful for generating Instagram bio symbols to make your profile stand out and have a little bit of individuality. After typing some text into the input box, you can keep clicking the "show more fonts" button and it'll keep generating an infinite number of different Instagram font variations, or you can use one of the "tried and true" fonts like the cursive text, or the other stylish text fonts - i.e. the ones that are a bit "neater" than the others because they use a set of symbols that are closer to the normal alphabet, and are more consistent in their style.
+
+The site works by generating a bunch of different styles using a large range of different Unicode characters. So technically you're not actually generating fonts, but instead I guess you could say you're generating Instagram-compatible Unicode glyphs :) Want to learn more about Unicode? Read on...
