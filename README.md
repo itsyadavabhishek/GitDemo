@@ -12,4 +12,4 @@ This Project is used for learning git and its command.
 
 ## copyright
 
-#make changes for understanding rebase example.
+#make changes for understanding rebase example.adding something from feature branch
